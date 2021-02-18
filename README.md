@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**PDF with STEP AP 242**](https://github.com/3D-PDF-Consortium/3DPDF-IF-Epic-1)<br />We are developing a set of recommended practices for creating PDF technical data packages with STEP AP 242 data. <br>You can find all of the work that we are doing [here](https://github.com/3D-PDF-Consortium/3DPDF-IF-Epic-1). | ![3D PDF Implementor Forum](img/3dpdfif.png) |
+| ![PDF and glTF](img/gltf.png) | [**PDF with glTF**](https://github.com/3D-PDF-Consortium/PDF-with-glTF)<br>The ISO working group for PDF/Engineering (ISO TC171 SC2 WG7) has formed a discussion group to look into including glTF as a 3D format that can be used in PDF 2.0 files.<br>You can find all of the work that we are doing [here](https://github.com/3D-PDF-Consortium/PDF-with-glTF). |
 
-You can use the [editor on GitHub](https://github.com/3D-PDF-Consortium/3D-PDF-Consortium.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3D-PDF-Consortium/3D-PDF-Consortium.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks for dropping by! If you have any questions, email us at info@3dpdfconsortium.org!
